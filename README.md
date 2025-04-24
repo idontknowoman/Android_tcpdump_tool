@@ -17,5 +17,5 @@ pip install Android_tcpdump-tool
 ## 示例
 
 ```bash
-tcpdump-tool -n com.example.app -t 600
+Android_tcpdump-tool -n com.example.app -t 600
 ```
