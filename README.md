@@ -7,7 +7,6 @@
 ```bash
 pip install Android_tcpdump_tool
 ```
-<!--还未上传pypi仓库，请等待更新-->
 
 ## 使用方法
 - -a 或 --apk: 目标应用的 APK 文件路径。
