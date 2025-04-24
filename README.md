@@ -1,11 +1,11 @@
-# Android_tcpdump-tool
+# Android_tcpdump_tool
 
-`Android_tcpdump-tool` 是一个用于抓取 Android 应用流量的命令行工具。
+`Android_tcpdump_tool` 是一个用于抓取 Android 应用流量的命令行工具。
 
 ## 安装
 
 ```bash
-pip install Android_tcpdump-tool
+pip install Android_tcpdump_tool
 ```
 <!--还未上传pypi仓库，请等待更新-->
 
@@ -17,5 +17,5 @@ pip install Android_tcpdump-tool
 ## 示例
 
 ```bash
-Android_tcpdump-tool -n com.example.app -t 600
+Android_tcpdump_tool -n com.example.app -t 600
 ```
